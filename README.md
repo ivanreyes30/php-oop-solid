@@ -5,7 +5,7 @@ For this project, I refactored some provided code using the PHP Object-Oriented 
 
 # Installation
 
-1. Clone the repository: sample repository here
+1. Clone the repository: sample repository here: `https://github.com/ivanreyes30/php-oop-solid.git`
 
 2. Rename .env.example to .env
 

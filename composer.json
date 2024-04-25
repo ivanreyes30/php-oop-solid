@@ -1,0 +1,19 @@
+{
+    "name": "php/oop",
+    "description": "PHP OOP",
+    "autoload": {
+        "psr-4": {
+            "Php\\Oop\\": "app/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ivanreyes",
+            "email": "ivanez30@yahoo.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
